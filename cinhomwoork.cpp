@@ -7,7 +7,7 @@ int main() {
     cin>>v;
     if (v>=18)
     {
-    cout<<"your accepted"<<endl;
+    cout<<"your accepte"<<endl;
     }else{
         cout<<"you are rejected"<<endl;
     }
